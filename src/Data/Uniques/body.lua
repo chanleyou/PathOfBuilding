@@ -438,7 +438,7 @@ Implicits: 0
 {variant:2,3}+(70-100) to maximum Life
 -30% to Cold Resistance
 {variant:1}Evasion Rating is increased by Uncapped Cold Resistance
-{variant:2,3}Evasion Rating is increased by Overcapped Cold Resistance
+{variant:2,3,4}Evasion Rating is increased by Overcapped Cold Resistance
 {variant:3}Flesh and Stone has no Reservation
 {variant:3}Hollow Palm Technique
 {variant:4}Versatile Combatant
